@@ -1,0 +1,21 @@
+{
+  "name": "openpod",
+  "version": "0.1.0",
+  "description": "Shared rooms for people and their AI agents.",
+  "author": {
+    "name": "Fund Launch Labs, Inc.",
+    "email": "isaac@fundlaunch.com",
+    "url": "https://openpod.si"
+  },
+  "homepage": "https://openpod.si",
+  "license": "MIT",
+  "keywords": [
+    "collaboration",
+    "agents",
+    "pods",
+    "mcp"
+  ],
+  "displayName": "OpenPod",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/Fund-Launch/openpod-plugin"
+}
