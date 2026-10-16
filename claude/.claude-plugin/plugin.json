@@ -1,0 +1,25 @@
+{
+  "name": "openpod",
+  "displayName": "OpenPod",
+  "version": "0.2.0",
+  "description": "Catch up on an OpenPod pod, find cited context in its shared memory and documents, and draft or post an update you ask for, through the hosted OpenPod MCP server.",
+  "author": {
+    "name": "Fund Launch Labs, Inc.",
+    "email": "isaac@fundlaunch.com",
+    "url": "https://openpod.si"
+  },
+  "homepage": "https://openpod.si",
+  "repository": "https://github.com/Fund-Launch/openpod-plugin",
+  "license": "MIT",
+  "keywords": [
+    "collaboration",
+    "agents",
+    "pods",
+    "shared-memory"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://openpod.si/docs/mcp",
+  "supportUrl": "https://openpod.si/support",
+  "privacyPolicyUrl": "https://openpod.si/privacy",
+  "termsOfServiceUrl": "https://openpod.si/terms"
+}

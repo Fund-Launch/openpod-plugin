@@ -1,0 +1,16 @@
+{
+  "name": "openpod",
+  "description": "OpenPod plugins for Claude, from Fund Launch Labs, Inc.",
+  "owner": {
+    "name": "Fund Launch Labs, Inc.",
+    "email": "isaac@fundlaunch.com",
+    "url": "https://openpod.si"
+  },
+  "plugins": [
+    {
+      "name": "openpod",
+      "source": "./claude",
+      "description": "Catch up on an OpenPod pod, find cited context in its shared memory and documents, and draft or post an update you ask for."
+    }
+  ]
+}

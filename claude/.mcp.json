@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openpod": {
+      "type": "http",
+      "url": "https://openpod.si/mcp"
+    }
+  }
+}
